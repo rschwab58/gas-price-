@@ -13,7 +13,34 @@ var Seattle = getColumn(url, 12);
 
 function getPrice(City, usAverage, quote){
  document.getElementById("output").innerHTML = "";
- var price = [];
- for (var i = 0; i < )
+ var matchingPrices = [];
+ var chosenList;
+
+if ("Boston" == City){
+    chosenList = Boston;}  
+else if ("Chicago" == City){
+    chosenList = Chicago;}
+
+
+
+ for (var i = 0; i < chosenList.length; i++){
+
+ }
+   
+
+document.getElementById("output").innerHTML = "";
+
 }
 
+
+
+var uniqueDate = [];
+for(var i = 0; i<.length; i++){
+    if(uniqueDate.includes(date[i])){
+        uniqueDate.push(date[i])
+    }
+}
+console.log(uniqueDate)
+
+//ticketText = "<b>day:</b>" + dayInput + "<br><b>age:</b>" + ageInput + "<br><b>price:</b> $" + price;
+//document.getElementById()
