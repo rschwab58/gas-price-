@@ -1,6 +1,6 @@
 body{
     font-family: monospace;
-    background-color: lightgrey;
+    background-color: rgb(53, 176, 149);
   }
   
   .outputBox{
@@ -20,10 +20,15 @@ body{
   }
   
   header{
-    background: pink;
+    background: rgb(53, 176, 149);
     padding: 20px;
     margin-bottom: 10px;
     font-size: 50px;
+    font-family: "Playwrite DE VA Guides", serif;
+   
+     
+  
+    
   }
   
   select{
