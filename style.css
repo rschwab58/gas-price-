@@ -1,18 +1,18 @@
 body{
     font-family: monospace;
-    background-color: rgb(53, 176, 149);
+    background-color: rgb(173, 230, 206);
   }
   
   .outputBox{
     min-height: 80px;
     width: 60%;
     margin-bottom: 10px;
-    background-color: white;
+    background-color: whitesmoke;
     padding: 5px;
   }
   
   button{
-    background-color: white;
+    background-color: whitesmoke;
     padding: 10px;
     font-family: monospace;
     border: none;
@@ -20,15 +20,11 @@ body{
   }
   
   header{
-    background: rgb(53, 176, 149);
+    background: rgb(173, 230, 206);
     padding: 20px;
     margin-bottom: 10px;
     font-size: 50px;
     font-family: "Playwrite DE VA Guides", serif;
-   
-     
-  
-    
   }
   
   select{
