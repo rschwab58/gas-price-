@@ -16,6 +16,7 @@ body{
     padding: 10px;
     font-family: monospace;
     border: none;
+    cursor: pointer;
     
   }
   

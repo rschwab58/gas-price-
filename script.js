@@ -1,3 +1,4 @@
+// Data was accessed through this page https://github.com/b-mcavoy/datasets/blob/main/Economics/US%20Gas%20Prices.csv
 var url = "https://raw.githubusercontent.com/b-mcavoy/datasets/refs/heads/main/Economics/US%20Gas%20Prices.csv"
 var date = getColumn(url, 1);
 
